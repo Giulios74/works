@@ -4,4 +4,6 @@
 
     End Sub
 
+    Public Property TestP() As String = "Ok"
+
 End Class
