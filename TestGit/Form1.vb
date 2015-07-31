@@ -8,4 +8,8 @@
 
     ' Test Modifica
 
+    Function Test2()
+
+    End Function
+
 End Class
